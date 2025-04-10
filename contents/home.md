@@ -13,3 +13,6 @@ UG, School of Future Technology, Harbin Institute of Technology, 2023—2027 (ex
 #### Research Interests
 Natural Language Processing
 
+#### Blogs Homepage
+
+[冰瓜猫 - 博客园](https://www.cnblogs.com/icewatermeloncat)
